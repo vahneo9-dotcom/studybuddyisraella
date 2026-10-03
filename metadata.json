@@ -1,0 +1,6 @@
+{
+  "name": "Math Detective",
+  "description": "An interactive math adventure game for kids to solve word problems, earn badges, and practice addition and subtraction in the Math Forest.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
